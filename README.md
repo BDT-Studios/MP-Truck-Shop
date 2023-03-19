@@ -7,13 +7,13 @@
 
 ! All my mods are now password protected 
 
-** CONVOY MODE
+## CONVOY MODE
 - Buy in Single player
 - Save
 - Turn off mod
 - Go into convoy
 
-** TRUCK SHOP 
+## TRUCK SHOP 
 - 625 Engine on all SCS Trucks
 - Added LED Projected Headlights to all SCS Trucks
 - Added Tinted Headlights to some of the trucks
@@ -21,7 +21,7 @@
 - Doesn't interfere with SCS Trucks in dealer
 - Trucks work in convoy
 
-** CUSTOM PAINT SHOP 
+## CUSTOM PAINT SHOP 
 - Go into trailer purchases copy paint scheme from trailer apply to your truck
 - All vanilla trailers removed
 - Freight Market disabled
